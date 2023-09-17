@@ -47,6 +47,7 @@ document.getElementById('todo-list').addEventListener('click', function ()
 
                 
                 titleColumn.textContent = todo.title;
+                
                 completedColumn.appendChild(completedCheckbox);
                 row.appendChild(titleColumn);
                 row.appendChild(completedColumn);

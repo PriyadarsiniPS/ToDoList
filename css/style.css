@@ -69,3 +69,12 @@ table td {
     padding: 8px;
     border: 1px solid #ddd; 
 }
+.navbarr{
+  padding: 0.25rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: red;
+  border-radius: 0.25rem;
+  transition: box-shadow .15s ease-in-out;
+
+}
